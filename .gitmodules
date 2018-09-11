@@ -1,0 +1,33 @@
+[submodule "deep_learning/Deep-Learning-AI"]
+	path = deep_learning/Deep-Learning-AI
+	url = https://github.com/codeamt/Deep-Learning-AI
+[submodule "android_mobile/Grow-With-Google-Android-Dev-Track-Scholarship"]
+	path = android_mobile/Grow-With-Google-Android-Dev-Track-Scholarship
+	url = https://github.com/codeamt/Grow-With-Google-Android-Dev-Track-Scholarship
+[submodule "android_mobile/Sandwich-App"]
+	path = android_mobile/Sandwich-App
+	url = https://github.com/codeamt/Sandwich-App
+[submodule "android_mobile/PopMovies"]
+	path = android_mobile/PopMovies
+	url = https://github.com/codeamt/PopMovies
+[submodule "android_mobile/BakingApp"]
+	path = android_mobile/BakingApp
+	url = https://github.com/codeamt/BakingApp
+[submodule "android_mobile/XYZ-Reader-App"]
+	path = android_mobile/XYZ-Reader-App
+	url = https://github.com/codeamt/XYZ-Reader-App
+[submodule "eth_javascript/EthElection"]
+	path = eth_javascript/EthElection
+	url = https://github.com/codeamt/EthElection
+[submodule "eth_javascript/ethICO"]
+	path = eth_javascript/ethICO
+	url = https://github.com/codeamt/ethICO
+[submodule "eth_javascript/ethTokenMinter"]
+	path = eth_javascript/ethTokenMinter
+	url = https://github.com/codeamt/ethTokenMinter
+[submodule "eth_javascript/Eth-User-Directory-App"]
+	path = eth_javascript/Eth-User-Directory-App
+	url = https://github.com/codeamt/Eth-User-Directory-App
+[submodule "ruby_on_rails/PredictCrypt"]
+	path = ruby_on_rails/PredictCrypt
+	url = https://github.com/codeamt/PredictCrypt
