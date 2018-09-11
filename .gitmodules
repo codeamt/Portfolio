@@ -31,3 +31,12 @@
 [submodule "ruby_on_rails/PredictCrypt"]
 	path = ruby_on_rails/PredictCrypt
 	url = https://github.com/codeamt/PredictCrypt
+[submodule "Build-It-Bigger"]
+	path = Build-It-Bigger
+	url = https://github.com/codeamt/Build-It-Bigger
+[submodule "android_mobile/--name"]
+	path = android_mobile/--name
+	url = https://github.com/codeamt/Build-It-Bigger
+[submodule "android_mobile/Build-It-Bigger"]
+	path = android_mobile/Build-It-Bigger
+	url = https://github.com/codeamt/Build-It-Bigger
