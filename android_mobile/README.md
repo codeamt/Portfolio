@@ -15,4 +15,4 @@
 | [Ruby on Rails](https://github.com/codeamt/Portfolio/tree/master/ruby_on_rails) | Rails applications that demonstrate api integration, and test-driven development. |
 | [Deep Learning](https://github.com/codeamt/Portfolio/tree/master/deep_learning) | Implementations of classic deep learning algorithms, Convolutional Neural Network architectures, Recurrent  Neural Netowork architectures, and Jupyter Notebook experiments with open-source data. |
 | [A-Frame Web VR](https://codepen.io/collection/nrmjEm/) | Web VR illustrations with A-Frame and CSS. A redirect to Codepen |
-| [Front End](https://codepen.io/collection/nkygdL/) | Examples that demonstrate compentencies in Front End frameworks (e.g., React.js and development. |
+| [Front End](https://codepen.io/collection/nkygdL/) | Examples that demonstrate compentencies in Front End frameworks (e.g., React.js) and development. |
