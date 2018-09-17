@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  Engineering Portfolio
+  Software Engineering & Design Portfolio
 </h1>
 
 <b>Categories:</b>
